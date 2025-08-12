@@ -1,12 +1,49 @@
-# React + Vite
+# React Random Jokes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application that fetches and displays random programming jokes using the JokeAPI. Each joke consists of a setup and a punchline, with interactive features to enhance user engagement.
 
-Currently, two official plugins are available:
+## 🧪 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the live demo here:  
+[https://react-random-jokes.vercel.app](https://react-random-jokes.vercel.app)
 
-## Expanding the ESLint configuration
+## 📦 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Fetches random jokes from the JokeAPI.
+- Displays setup and punchline with interactive toggles.
+- Responsive design for optimal viewing on various devices.
+
+## ⚙️ Installation
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/imamulkadir/React_randomJokes.git
+cd React_randomJokes
+```
+
+## Install dependencies:
+
+```bash
+npm install
+```
+
+Run the application:
+
+```bash
+npm run dev
+```
+
+The app will be available at `http://localhost:3000`.
+
+## 🛠️ Technologies Used
+
+`React`
+
+`Vite`
+
+`JokeAPI` (https://v2.jokeapi.dev)
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
