@@ -1,11 +1,13 @@
 # React Random Jokes
 
-A React application that fetches and displays random programming jokes using the JokeAPI. Each joke consists of a setup and a punchline, with interactive features to enhance user engagement.
+## A React application that fetches and displays random programming jokes using the JokeAPI. Each joke consists of a setup and a punchline, with interactive features to enhance user engagement.
 
-## 🧪 Demo
+---
 
 You can view the live demo here:  
-[https://react-random-jokes.vercel.app](https://react-random-jokes.vercel.app)
+[Coming soon...](https://#)
+
+---
 
 ## 📦 Features
 
